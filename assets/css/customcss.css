@@ -1,0 +1,157 @@
+body{
+    /* IE */
+  /* filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); */
+
+  /* Chrome, Safari */
+  /* -webkit-filter: grayscale(1); */
+
+  /* Firefox */
+  /* filter: grayscale(1); */
+}
+
+.badge-light {
+    color: #212529;
+    background-color: #f8f9fa;
+}
+
+.custom-primary-color{
+    color: #2187d9 !important;
+}
+
+.resume-section-heading:before {
+    background-color: #2187d9;
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 85%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.inline{
+    display: inline;
+}
+
+.resume-degree-org{
+    font-size: 13px;
+}
+
+.resume-degree-time{
+    font-size: 13px;
+}
+
+.custom-acc{
+    line-height: 18px;
+    font-size: 13px;
+}
+
+.font-13{
+    font-size: 13px;
+}
+
+.resume-footer{
+    margin: 10px 0px 5px 0px;
+}
+
+.custom-social{
+    font-size: 1.5em;
+    margin-bottom: 1px;
+}
+
+.work-ex-item{
+    margin-bottom: 3rem !important;
+}
+
+.item-content > li {
+    line-height: 25px;
+}
+
+.resume-list > li{
+    line-height: 25px;
+}
+
+.badge-primary {
+    color: #fff;
+    background-color: #434E5E;
+    font-weight: 500;
+    padding: 3px;
+}
+
+.badge-pill {
+    padding-right: 0.6em;
+    padding-left: 0.6em;
+    border-radius: 10rem;
+}
+
+.list-unstyled > li > a > span > svg{
+    font-size: 18px;
+}
+
+.custom-color{
+    color: #2187d9; /*#54B689 */
+    font-size: 12px;
+}
+
+.custom-margin{
+    padding: 0.5rem 0rem 0.5rem 0rem !important;
+}
+
+.mylogo{
+    width: 30px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
+}
+
+.mylogo-icon{
+    width: 30px;
+    height: 30px;
+    left: 4px;
+    position: relative;
+    top: -4px;
+}
+
+.custom-footer{
+    font-size: 1rem;
+}
+
+.custom-link-position{
+    position: relative;
+    left: -8px;
+    top: 10px;
+}
+
+.fab_icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+    background: #2187d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    transition: ease-in-out 0.5s;
+    cursor: pointer;
+    z-index: 5;
+}
+
+.fab_icon:hover{
+    box-shadow: 0 0px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+
+.save_icon{
+    color : #fff;
+    font-size: 25px;
+    position: relative;
+    top: -2px;  
+}
