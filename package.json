@@ -1,0 +1,23 @@
+{
+  "name": "prateek_patel_resume",
+  "version": "1.0.0",
+  "description": "Prateek Patel Personal Resume",
+  "homepage": "https://prateekmedy.github.io/prateekresume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d public"
+  },
+  "author": "Prateek Patel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "1.0.0"
+  },
+  "keywords": [
+    "Resume"
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
