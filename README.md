@@ -6,7 +6,7 @@ This is my personal static Web Developer Resume created in the web platform with
 
 ##### You can check it out here : 
 
-https://prateekmedy.github.io/prateekportfolio
+https://prateekmedy.github.io/prateekresume
 
 ---
 
