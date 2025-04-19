@@ -7,15 +7,29 @@ body{
 
   /* Firefox */
   /* filter: grayscale(1); */
+  color: #212121 !important;
+  background-color: #f0f0f0 !important;
+}
+
+.resume-wrapper {
+    background-color: #eeeeee !important;
+}
+
+.badge {
+    font-weight: 600 !important;
 }
 
 .badge-light {
-    color: #212529;
-    background-color: #f8f9fa;
+    color: #fff;
+    background-color: #2187d9;
 }
 
 .custom-primary-color{
     color: #2187d9 !important;
+}
+
+.custom-accent-color{
+    color: #292929 !important;
 }
 
 .resume-section-heading:before {
